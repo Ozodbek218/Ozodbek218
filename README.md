@@ -50,7 +50,7 @@
 
 ## 🏆 GitHub Trophy Case
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ozodbek218&theme=algolia&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ozodbek218&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
@@ -60,10 +60,10 @@
   <a href="https://github.com/Ozodbek218">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://t.me/@tohirov_jr">
+  <a href="https://t.me/tohirov_jr">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/@tohirov_jr">
+  <a href="https://www.instagram.com/tohirov_jr?igsh=NzZoM3F1M2g5NmR3">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
